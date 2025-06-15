@@ -1,5 +1,4 @@
 # Celebal ( Data Science ) ----- Assignment 2 ( Implement a Linked List in Python Using OOP and Delete the Nth Node )
-1
 
 class Node:
     def __init__(self, data):
